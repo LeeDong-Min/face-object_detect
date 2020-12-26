@@ -12,3 +12,7 @@
 ![house](https://user-images.githubusercontent.com/41437682/103151644-42cf2a80-47c3-11eb-9f32-8acc16a9e4fd.gif)
 
 - 출처 : https://www.youtube.com/watch?v=jU2KsBS_IIY&t=23s
+
+---
+
+### 상세 설명 : https://www.notion.so/Face-Object_Detect-516fb32fb5e641498a8e866f19b46411
